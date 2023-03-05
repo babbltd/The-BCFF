@@ -1,2 +1,2 @@
 # The-BCFF
-Universal Contact File Format
+Basic Contact File Format, an enhanced version of VCF Standard for business-focused applications.

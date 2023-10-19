@@ -1,5 +1,4 @@
 # The-BCFF
-<<<<<<< HEAD
 Basic Contact File Format, an enhanced version of vCard standard ("VCF") for use in business-focused applications.
 
 Current version of vCard is 4.0, maintained by CalConnect group. An intro to vCard viewable at:
